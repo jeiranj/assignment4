@@ -1,4 +1,4 @@
-DS-GS 1007 Assignment 4
+DS-GA 1007 Assignment 4
 =======================
 
 Upload your assignment repository to your local fork.
