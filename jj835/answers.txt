@@ -1,0 +1,7 @@
+1-- illegal names: and (reserved word), 1var (starts with a number), my-name (dash)
+1-- legal names: _and, var, var1, your_name, COLOR
+
+2-- a=bool; b=float; c=str; d=int; e=str; f=complex; g=str; h=bool; i=str.
+
+3-- b and c=False; b or c=True; not a and b=True; (a and b) or not c=True; not b and not (a or c)=False.
+
